@@ -1,2 +1,2 @@
-auto_update: false
-max_connections: 25
+auto_update: true
+max_connections: 32
